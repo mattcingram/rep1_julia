@@ -1,18 +1,10 @@
 [deps]
-CSV
-DelimitedFiles
-GLM
-GLMNet
-HTTP
 MultivariateStats
-StatsKit
 StatsModels
 StatPlots
 Plots
 PyCall
 PyPlot
-Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
-RDatasets = "ce6b1742-4840-55fa-b093-852dadbb1d8b"
 
 [compat]
-julia = "1.5"
+julia
