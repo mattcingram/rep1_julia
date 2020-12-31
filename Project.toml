@@ -1,7 +1,6 @@
 [deps]
 MultivariateStats
 StatsModels
-StatPlots
 Plots
 PyCall
 PyPlot
