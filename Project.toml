@@ -1,11 +1,16 @@
 [deps]
-CSV
-HTTP
-MultivariateStats
-StatsModels
-Plots
-PyCall
-PyPlot
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+OnlineStats = "a15396b6-48d5-5d58-9928-6d29437db91e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+RDatasets = "ce6b1742-4840-55fa-b093-852dadbb1d8b"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StatsFuns = "4c63d2b9-4356-54db-8cca-17b64c39e42c"
 
 [compat]
 julia = "1.0.0"
