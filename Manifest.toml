@@ -171,6 +171,10 @@ version = "0.5.3"
 [[Logging]]
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
+[[Markdown]]
+# dep for Pkg
+uuid = "00f7c1d2-44e1-4b03-8f5d-29bfea6d990b"
+
 [[MKL_jll]]
 deps = ["IntelOpenMP_jll", "Libdl", "Pkg"]
 git-tree-sha1 = "eb540ede3aabb8284cb482aa41d00d6ca850b1f8"
