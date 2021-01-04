@@ -83,6 +83,9 @@ git-tree-sha1 = "fb0aa371da91c1ff9dc7fbed6122d3e411420b9c"
 uuid = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 version = "0.18.8"
 
+[[DataValueInterfaces]]
+uuid = "f0bdc1c2-e51e-447d-bf07-5c894851bb12"
+
 [[Dates]]
 deps = ["Printf"]
 uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
