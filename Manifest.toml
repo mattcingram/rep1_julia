@@ -68,6 +68,9 @@ git-tree-sha1 = "fee8955b9dfa7bec67117ef48085fb2b559b9c22"
 uuid = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 version = "1.4.5"
 
+[[Future]]
+uuid = "47fbc6df-586e-493c-8b64-81a9c8319d3d"
+
 [[Gadfly]]
 deps = ["Base64", "CategoricalArrays", "Colors", "Compose", "Contour", "CoupledFields", "DataStructures", "Dates", "Distributions", "DocStringExtensions", "Hexagons", "IndirectArrays", "IterTools", "JSON", "Juno", "KernelDensity", "LinearAlgebra", "Loess", "Measures", "Printf", "REPL", "Random", "Requires", "Showoff", "Statistics"]
 git-tree-sha1 = "fce23cb26b95dd5b3b0fbc0d3e721a9a14620e5e"
