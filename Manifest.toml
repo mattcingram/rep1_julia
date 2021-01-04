@@ -215,6 +215,9 @@ version = "0.8.4"
 [[KernelDensity]]
 uuid = "ffcca7c9-fdfc-4b6a-ac2b-ccd204118d99"
 
+[[Latexify]]
+uuid = "b3b5ef16-4bec-4a8c-87d8-153c883c8669"
+
 [[Libdl]]
 uuid = "3a6efefc-88f7-42f3-a54c-273588a90f44"
 
