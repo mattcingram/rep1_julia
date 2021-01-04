@@ -214,6 +214,9 @@ uuid = "00f7c1d2-44e1-4b03-8f5d-29bfea6d990b"
 [[MbedTLS]]
 uuid = "64386b14-4924-4037-b320-f828b230e3ff"
 
+[[Measures]]
+uuid = "853c6a62-d576-4da5-9d55-8c1005c68eea"
+
 [[Media]]
 uuid = "f7639673-364d-4b8e-84cf-44b30a2c8a3c"
 
