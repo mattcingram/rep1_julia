@@ -413,9 +413,9 @@ git-tree-sha1 = "50c9a9ed8c714945e01cd53a21007ed3865ed714"
 uuid = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
 version = "1.0.15"
 
-#[[Pkg]]
-#deps = ["Dates", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "UUIDs"]
-#uuid = "c05d4bb2-6017-4001-9d38-afbdfb07f647"
+[[Pkg]]
+deps = ["Dates", "LibGit2", "Libdl", "Logging", "Markdown", "Printf", "REPL", "Random", "SHA", "UUIDs"]
+uuid = "c05d4bb2-6017-4001-9d38-afbdfb07f647"
 
 [[PlotThemes]]
 #deps = ["PlotUtils", "Requires", "Statistics"]
