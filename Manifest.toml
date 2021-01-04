@@ -89,6 +89,9 @@ uuid = "864f08e1-0371-4da7-ab6c-b7f326d5cdca"
 [[DocStringExtensions]]
 uuid = "068f9989-ba9f-4131-a884-ed8ce3d73b67"
 
+[[ExprTools]]
+uuid= "c07327c2-4e8e-43df-9345-c33304a57c82"
+
 [[EzXML]]
 uuid = "8741e564-af6d-4793-b85b-0904fda5f850"
 
