@@ -20,4 +20,4 @@ StatsBase = "10f92b97-3fed-4a77-8508-7032e06c1677"
 StatsFuns = "43bd2672-d8cd-4a5f-8019-f3a2a5e22b5b"
 
 [compat]
-julia = "1.5.0"
+julia = "1.1.0"
