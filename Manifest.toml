@@ -286,6 +286,9 @@ uuid = "aa8102d7-234b-4d37-98e6-e1286a0f2477"
 [[MLJLinearModels]]
 uuid = "271dd3b8-a436-4298-9bc9-bd8db3d55ea2"
 
+[[MLJModels]]
+uuid = "f73f9d03-7055-43bb-890f-7ae936fd37bd"
+
 [[Mmap]]
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
