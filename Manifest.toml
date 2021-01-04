@@ -110,7 +110,6 @@ version = "1.4.5"
 [[FixedPointNumbers]]
 uuid = "60694340-7b5f-48dd-a073-27fc1cd036c3"
 
-
 [[Formatting]]
 uuid = "677d8062-ef25-4ca8-8e79-c0db3a104c3f"
 
@@ -125,6 +124,9 @@ version = "1.3.1"
 
 [[GLM]]
 uuid = "55d141bb-013f-4ff6-8c85-a37da6199530"
+
+[[GR]]
+uuid = "60694340-7b5f-48dd-a073-27fc1cd036c3"
 
 [[Grisu]]
 uuid = "a9902636-e7b3-4a59-8ed1-65e1431bc8cb"
