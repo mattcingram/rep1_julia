@@ -14,9 +14,9 @@ Plots = "845c95bf-16e4-4e3f-9c0f-c942956615a1"
 PyCall = "a97db70d-9d75-45bf-880d-6231cb0d306f"
 PyPlots = "0a741240-ddc7-4892-acfc-683a419d27d1"
 RDatasets = "3eeecea6-01aa-4de7-9a31-02282770c046"
-Statistics = "6934a0f0-0771-4286-bb02-b51f9d55236c"
+Statistics = "ff36ebc3-c250-4c0b-be4d-affe752fb018"
 StatsBase = "10f92b97-3fed-4a77-8508-7032e06c1677"
 StatsFuns = "43bd2672-d8cd-4a5f-8019-f3a2a5e22b5b"
 
 [compat]
-julia = "1.0.0"
+julia = "1.5.0"
