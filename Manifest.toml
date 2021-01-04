@@ -455,6 +455,12 @@ git-tree-sha1 = "ed61674a0864832495ffe0a7e889c0da76b0f4c8"
 uuid = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
 version = "0.4.4"
 
+[[MLJ]]
+
+[[MLJBase]]
+
+[[MLJLinearModels]]
+
 [[Mmap]]
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
@@ -569,6 +575,10 @@ uuid = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 [[Profile]]
 deps = ["Printf"]
 uuid = "9abbd945-dff8-562f-b5e8-e1ebf5ef1b79"
+
+[[PyCall]]
+
+[[PyPlots]]
 
 [[QuadGK]]
 deps = ["DataStructures", "LinearAlgebra"]
