@@ -252,6 +252,9 @@ uuid = "2455d681-8541-4339-8890-e338a6d0f406"
 deps = ["Libdl"]
 uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
+[[LinearMaps]]
+uuid = "1386aebe-36ed-4cd1-bca0-36761219e21f"
+
 [[Loess]]
 deps = ["Distances", "LinearAlgebra", "Statistics"]
 git-tree-sha1 = "b5254a86cf65944c68ed938e575f5c81d5dfe4cb"
