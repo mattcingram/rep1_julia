@@ -258,6 +258,9 @@ version = "0.5.3"
 [[Logging]]
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
+[[LossFunctions]]
+uuid = "c766d58b-f1ad-44c5-be40-af9fc05ff204"
+
 [[Markdown]]
 # dep for Pkg
 uuid = "00f7c1d2-44e1-4b03-8f5d-29bfea6d990b"
