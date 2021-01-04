@@ -1,5 +1,5 @@
 [deps]
-CSV
+CSV = "af954ca2-4e9a-11eb-ae93-0242ac130002"
 
 [compat]
 julia = "1.0.0"
