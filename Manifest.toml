@@ -1,5 +1,8 @@
 # This file is machine-generated - editing it directly is not advised
 
+[[Adapt]]
+uuid = "cbe090ba-51e3-44c1-b50c-3456c03b1ef7"
+
 [[Base64]]
 uuid = "735ae699-7ca0-43f7-bee7-a778c3b5dc13"
 
