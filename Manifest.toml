@@ -98,6 +98,9 @@ uuid= "c07327c2-4e8e-43df-9345-c33304a57c82"
 [[EzXML]]
 uuid = "8741e564-af6d-4793-b85b-0904fda5f850"
 
+[[FFMPEG]]
+uuid = "1da6908a-07f1-4326-b7ee-36c39355b686"
+
 [[FileIO]]
 deps = ["Pkg"]
 git-tree-sha1 = "fee8955b9dfa7bec67117ef48085fb2b559b9c22"
