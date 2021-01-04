@@ -242,10 +242,12 @@ version = "0.21.1"
 uuid = "b3b5ef16-4bec-4a8c-87d8-153c883c8669"
 
 [[Libdl]]
+# dep for Pkg
 uuid = "3a6efefc-88f7-42f3-a54c-273588a90f44"
 
-#[[LibGit2]]
-#uuid = "2455d681-8541-4339-8890-e338a6d0f406"
+[[LibGit2]]
+# dep for Pkg
+uuid = "2455d681-8541-4339-8890-e338a6d0f406"
 
 [[LinearAlgebra]]
 deps = ["Libdl"]
@@ -260,8 +262,8 @@ uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 #uuid = "4345ca2d-374a-55d4-8d30-97f9976e7612"
 #version = "0.5.3"
 
-#[[Logging]]
-#uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
+[[Logging]]
+uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 #[[LossFunctions]]
 #uuid = "c766d58b-f1ad-44c5-be40-af9fc05ff204"
@@ -544,8 +546,8 @@ version = "1.1.2"
 #[[ScikitLearn]]
 #uuid = "3ae6c1b8-bb6c-4128-baf5-bbb5015271e7"
 
-#[[SHA]]
-#uuid = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+[[SHA]]
+uuid = "ea8e919c-243c-51af-8825-aaa63cd721ce"
 
 [[Scratch]]
 #deps = ["Dates"]
