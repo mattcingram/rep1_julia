@@ -107,6 +107,10 @@ git-tree-sha1 = "fee8955b9dfa7bec67117ef48085fb2b559b9c22"
 uuid = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 version = "1.4.5"
 
+[[FixedPointNumbers]]
+uuid = "60694340-7b5f-48dd-a073-27fc1cd036c3"
+
+
 [[Formatting]]
 uuid = "677d8062-ef25-4ca8-8e79-c0db3a104c3f"
 
