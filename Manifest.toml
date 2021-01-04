@@ -57,6 +57,9 @@ uuid = "834dc359-3432-451f-a67f-1f6d030135a0"
 [[Compose]]
 uuid = "41eadea5-3984-49fd-ad84-c29b06aba175"
 
+[[ComputationalResources]]
+uuid = "b4f210b8-6fd5-4379-95f2-b62e2e3fcd45"
+
 [[Contour]]
 uuid = "dd8d7fb8-6232-420e-877f-1483421548cf"
 
