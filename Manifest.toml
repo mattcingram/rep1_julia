@@ -51,6 +51,9 @@ uuid = "dd8d7fb8-6232-420e-877f-1483421548cf"
 [[CoupledFields]] 
 uuid = "b632e4d4-56a0-4f3e-85a4-d75b0c65be01"
 
+[[Crayons]]
+uuid = "1e71fd79-a33a-4676-b4a8-34db4c895699"
+
 [[DataAPI]]
 git-tree-sha1 = "ad84f52c0b8f05aa20839484dbaf01690b41ff84"
 uuid = "9a962f9c-6df0-11e9-0e5d-c546b8b5ee8a"
@@ -85,6 +88,9 @@ uuid = "864f08e1-0371-4da7-ab6c-b7f326d5cdca"
 
 [[DocStringExtensions]]
 uuid = "068f9989-ba9f-4131-a884-ed8ce3d73b67"
+
+[[EzXML]]
+uuid = "8741e564-af6d-4793-b85b-0904fda5f850"
 
 [[FileIO]]
 deps = ["Pkg"]
