@@ -151,7 +151,7 @@ uuid = "e143495e-841b-4703-ab17-ada834ad5975"
 #uuid = "a9902636-e7b3-4a59-8ed1-65e1431bc8cb"
 
 [[HTTP]]
-deps = ["Base64", "Dates", "IniFile", "MbedTLS", "Sockets", "URIs"]
+#deps = ["Base64", "Dates", "IniFile", "MbedTLS", "Sockets", "URIs"]
 git-tree-sha1 = "63055ee44b5c2b95ec1921edcf856c60124ff0c3"
 uuid = "58432f8a-7cb6-4d30-ae5e-207bd69280ff"
 version = "0.9.2"
@@ -224,7 +224,7 @@ version = "0.5.0"
 #uuid = "5993a37c-26c8-4136-bb4b-c3d90f6fc92d"
 
 [[JSON]]
-deps = ["Dates", "Mmap", "Parsers", "Unicode"]
+#deps = ["Dates", "Mmap", "Parsers", "Unicode"]
 git-tree-sha1 = "81690084b6198a2e1da36fcfda16eeca9f9f24e4"
 uuid = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 version = "0.21.1"
@@ -485,7 +485,7 @@ uuid = "0a741240-ddc7-4892-acfc-683a419d27d1"
 #version = "0.7.3"
 
 [[REPL]]
-deps = ["InteractiveUtils", "Markdown", "Sockets"]
+#deps = ["InteractiveUtils", "Markdown", "Sockets"]
 uuid = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
 
 [[Random]]
@@ -503,7 +503,7 @@ uuid = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 version = "1.1.1"
 
 [[RecipesPipeline]]
-deps = ["Dates", "NaNMath", "PlotUtils", "RecipesBase"]
+#deps = ["Dates", "NaNMath", "PlotUtils", "RecipesBase"]
 git-tree-sha1 = "9ea2f5bf1b26918b16e9f885bb8e05206bfc2144"
 uuid = "01d81517-befc-4cb6-b9ec-a95719d0359c"
 version = "0.2.1"
