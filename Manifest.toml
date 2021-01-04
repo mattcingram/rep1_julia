@@ -98,6 +98,9 @@ git-tree-sha1 = "fee8955b9dfa7bec67117ef48085fb2b559b9c22"
 uuid = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 version = "1.4.5"
 
+[[Formatting]]
+uuid = "677d8062-ef25-4ca8-8e79-c0db3a104c3f"
+
 [[Future]]
 uuid = "47fbc6df-586e-493c-8b64-81a9c8319d3d"
 
