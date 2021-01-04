@@ -322,6 +322,9 @@ git-tree-sha1 = "916b850daad0d46b8c71f65f719c49957e9513ed"
 uuid = "78c3b35d-d492-501b-9361-3d52fe80e533"
 version = "0.7.1"
 
+[[MultivariateStats]]
+uuid = "0c4f3654-ddee-446c-ba1d-b91af25978db"
+
 [[NaNMath]]
 git-tree-sha1 = "bfe47e760d60b82b66b61d2d44128b62e3a369fb"
 uuid = "77ba4419-2d1f-58cd-9bb1-8ffee604a2e3"
@@ -505,6 +508,12 @@ deps = ["Printf"]
 git-tree-sha1 = "8f743e4f4368d1d753f3806bf635899dad6b4847"
 uuid = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
 version = "1.0.7"
+
+[[ScientificTypes]]
+uuid = "0b69602d-8663-4b37-a35d-f40d34f83674"
+
+[[ScikitLearn]]
+uuid = "3ae6c1b8-bb6c-4128-baf5-bbb5015271e7"
 
 [[SHA]]
 uuid = "ea8e919c-243c-51af-8825-aaa63cd721ce"
