@@ -278,16 +278,40 @@ uuid = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
 version = "0.4.4"
 
 [[MLJ]]
+deps = ["CategoricalArrays", "ComputationalResources", "Distributed", "Distributions", "LinearAlgebra", "MLJBase", "MLJModels", "MLJScientificTypes", "MLJTuning", "Pkg", "ProgressMeter", "Random", "Statistics", "StatsBase", "Tables"]
 uuid = "ae6273b4-dd65-4171-a2a3-7cb2b8f5d961"
 
 [[MLJBase]]
+deps = ["CategoricalArrays", "ComputationalResources", "Dates", "DelimitedFiles", "Distributed", "Distributions", "HTTP", "InteractiveUtils", "InvertedIndices", "JLSO", "JSON", "LinearAlgebra", "LossFunctions", "MLJModelInterface", "MLJScientificTypes", "Missings", "OrderedCollections", "Parameters", "PrettyTables", "ProgressMeter", "Random", "ScientificTypes", "Statistics", "StatsBase", "Tables"]
 uuid = "aa8102d7-234b-4d37-98e6-e1286a0f2477"
 
+[[MLJFlux]]
+deps = ["CategoricalArrays", "ColorTypes", "Flux", "LossFunctions", "MLJModelInterface", "ProgressMeter", "ScientificTypes", "Statistics", "Tables"]
+uuid = "0a9a2f81-01a5-41a6-946f-accbba5a21c5"
+
 [[MLJLinearModels]]
+deps = ["DocStringExtensions", "IterativeSolvers", "LinearAlgebra", "LinearMaps", "MLJModelInterface", "Optim", "Parameters"]
 uuid = "271dd3b8-a436-4298-9bc9-bd8db3d55ea2"
 
+[[MLJModelInterface]]
+deps = ["Random", "ScientificTypes"]
+uuid = "7304fa50-0974-4d23-8dcd-2a0318b57eb4"
+
 [[MLJModels]]
+deps = ["CategoricalArrays", "Dates", "Distances", "Distributions", "InteractiveUtils", "LinearAlgebra", "MLJBase", "MLJModelInterface", "MultivariateStats", "OrderedCollections", "Parameters", "Pkg", "Random", "Requires", "ScientificTypes", "Statistics", "StatsBase", "Tables"]
 uuid = "f73f9d03-7055-43bb-890f-7ae936fd37bd"
+
+[[MLJScientificTypes]]
+deps = ["CategoricalArrays", "ColorTypes", "Dates", "PrettyTables", "ScientificTypes", "Tables"]
+uuid = "83ee146d-d296-40bf-85b4-aac9c764a9e3"
+
+[[MLJScikitLearnInterface]]
+deps = ["MLJModelInterface", "PyCall", "ScikitLearn"]
+uuid = "09bd620c-bd35-4aeb-ba2e-e0a4c135212b"
+
+[[MLJTuning]]
+deps = ["ComputationalResources", "Distributed", "Distributions", "MLJBase", "MLJModelInterface", "ProgressMeter", "Random", "RecipesBase"]
+uuid = "2f57cc21-bad9-4c38-9e5e-577c773e7351"
 
 [[Mmap]]
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
