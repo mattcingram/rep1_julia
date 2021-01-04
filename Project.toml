@@ -1,0 +1,5 @@
+[deps]
+CSV
+
+[compat]
+julia = "1.0.0"
