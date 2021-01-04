@@ -434,6 +434,9 @@ uuid = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 deps = ["Printf"]
 uuid = "9abbd945-dff8-562f-b5e8-e1ebf5ef1b79"
 
+[[ProgressMeter]]
+uuid = "20b84c4e-82cd-4179-981d-5221144aaed7"
+
 [[PyCall]]
 uuid = "a97db70d-9d75-45bf-880d-6231cb0d306f"
 
