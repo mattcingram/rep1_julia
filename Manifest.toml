@@ -254,6 +254,9 @@ version = "1.0.5+6"
 deps = ["Random"]
 uuid = "9fa8497b-333b-5362-9e8d-4d0656e87820"
 
+[[GLM]]
+uuid = ""
+
 [[GR]]
 deps = ["Base64", "DelimitedFiles", "LinearAlgebra", "Printf", "Random", "Serialization", "Sockets", "Test", "UUIDs"]
 git-tree-sha1 = "1185d50c5c90ec7c0784af7f8d0d1a600750dc4d"
@@ -271,6 +274,9 @@ deps = ["EarCut_jll", "IterTools", "LinearAlgebra", "StaticArrays", "StructArray
 git-tree-sha1 = "876f77f0d3253e882ff588af1c95d0e4a86c9766"
 uuid = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
 version = "0.3.5"
+
+[[GLM]]
+uuid = "55d141bb-013f-4ff6-8c85-a37da6199530"
 
 [[Grisu]]
 git-tree-sha1 = "03d381f65183cb2d0af8b3425fde97263ce9a995"
@@ -456,10 +462,13 @@ uuid = "e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28"
 version = "0.4.4"
 
 [[MLJ]]
+uuid = "ae6273b4-dd65-4171-a2a3-7cb2b8f5d961"
 
 [[MLJBase]]
+uuid = "aa8102d7-234b-4d37-98e6-e1286a0f2477"
 
 [[MLJLinearModels]]
+uuid = "271dd3b8-a436-4298-9bc9-bd8db3d55ea2"
 
 [[Mmap]]
 uuid = "a63ad114-7e13-5084-954f-fe012c677804"
