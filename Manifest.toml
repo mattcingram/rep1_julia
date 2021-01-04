@@ -39,6 +39,9 @@ uuid = "6ea6fdaa-674e-474a-988a-a932e02f0d84"
 [[ColorSchemes]]
 uuid = "1bb78f1f-ccb7-4e23-a09d-2da9fafea732"
 
+[[Combinatorics]]
+uuid = "6fd91331-baa6-4d40-85a6-e8cf8cb79b30"
+
 [[Compat]]
 deps = ["Base64", "Dates", "DelimitedFiles", "Distributed", "InteractiveUtils", "LibGit2", "Libdl", "LinearAlgebra", "Markdown", "Mmap", "Pkg", "Printf", "REPL", "Random", "SHA", "Serialization", "SharedArrays", "Sockets", "SparseArrays", "Statistics", "Test", "UUIDs", "Unicode"]
 git-tree-sha1 = "919c7f3151e79ff196add81d7f4e45d91bbf420b"
