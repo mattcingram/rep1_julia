@@ -3,6 +3,9 @@
 [[Adapt]]
 uuid = "cbe090ba-51e3-44c1-b50c-3456c03b1ef7"
 
+[[Artifacts]]
+uuid = "58171852-3377-4c3e-83be-0083196cd7bb"
+
 [[Base64]]
 uuid = "735ae699-7ca0-43f7-bee7-a778c3b5dc13"
 
