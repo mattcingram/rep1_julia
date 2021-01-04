@@ -1,7 +1,7 @@
 [deps]
 #Calculus = "a8a17f2a-8fb6-4f2d-8143-b55912a47aaf"
 CSV = "af954ca2-4e9a-11eb-ae93-0242ac130002"
-#DataFrames = "3207c1b2-8d76-4813-acc5-db19fdf4bb84"
+DataFrames = "3207c1b2-8d76-4813-acc5-db19fdf4bb84"
 #Gadfly = "ffda7efd-fba4-4a63-98bb-7c3135193d6f"
 #GLM = "55d141bb-013f-4ff6-8c85-a37da6199530"
 HTTP = "58432f8a-7cb6-4d30-ae5e-207bd69280ff"
@@ -21,4 +21,4 @@ StatsBase = "10f92b97-3fed-4a77-8508-7032e06c1677"
 #StatsFuns = "43bd2672-d8cd-4a5f-8019-f3a2a5e22b5b"
 
 [compat]
-julia = "1.1.0"
+julia = "1.0.0"
