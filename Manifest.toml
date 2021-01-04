@@ -69,10 +69,8 @@ uuid = "dd8d7fb8-6232-420e-877f-1483421548cf"
 #[[Crayons]]
 #uuid = "1e71fd79-a33a-4676-b4a8-34db4c895699"
 
-#[[DataAPI]]
-#git-tree-sha1 = "ad84f52c0b8f05aa20839484dbaf01690b41ff84"
-#uuid = "9a962f9c-6df0-11e9-0e5d-c546b8b5ee8a"
-#version = "1.4.0"
+[[DataAPI]]
+uuid = "9a962f9c-6df0-11e9-0e5d-c546b8b5ee8a"
 
 #[[DataFrames]]
 #deps = ["CategoricalArrays", "Compat", "DataAPI", "Future", "InvertedIndices", "IteratorInterfaceExtensions", "LinearAlgebra", "Markdown", "Missings", "PooledArrays", "PrettyTables", "Printf", "REPL", "Reexport", "SortingAlgorithms", "Statistics", "TableTraits", "Tables", "Unicode"]
