@@ -560,8 +560,8 @@ git-tree-sha1 = "6ccde405cf0759eba835eb613130723cb8f10ff9"
 uuid = "91c51154-3ec4-41a3-a24f-3f23e20d615c"
 version = "1.2.16"
 
-#[[Serialization]]
-#uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+[[Serialization]]
+uuid = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 
 #[[SharedArrays]]
 #deps = ["Distributed", "Mmap", "Random", "Serialization"]
