@@ -30,6 +30,9 @@ version = "0.8.3"
 [[CodecZlib]]
 uuid = "9fd79a25-bd8f-4e8f-b21f-26e32c4857b3"
 
+[[Colors]]
+uuid = "6ea6fdaa-674e-474a-988a-a932e02f0d84"
+
 [[Compat]]
 deps = ["Base64", "Dates", "DelimitedFiles", "Distributed", "InteractiveUtils", "LibGit2", "Libdl", "LinearAlgebra", "Markdown", "Mmap", "Pkg", "Printf", "REPL", "Random", "SHA", "Serialization", "SharedArrays", "Sockets", "SparseArrays", "Statistics", "Test", "UUIDs", "Unicode"]
 git-tree-sha1 = "919c7f3151e79ff196add81d7f4e45d91bbf420b"
@@ -38,6 +41,15 @@ version = "3.25.0"
 
 [[CompilerSupportLibraries_jll]]
 uuid = "834dc359-3432-451f-a67f-1f6d030135a0"
+
+[[Compose]]
+uuid = "41eadea5-3984-49fd-ad84-c29b06aba175"
+
+[[Contour]]
+uuid = "dd8d7fb8-6232-420e-877f-1483421548cf"
+
+[[CoupledFields]] 
+uuid = "b632e4d4-56a0-4f3e-85a4-d75b0c65be01"
 
 [[DataAPI]]
 git-tree-sha1 = "ad84f52c0b8f05aa20839484dbaf01690b41ff84"
@@ -70,6 +82,9 @@ uuid = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
 [[Distributions]]
 uuid = "864f08e1-0371-4da7-ab6c-b7f326d5cdca"
+
+[[DocStringExtensions]]
+uuid = "068f9989-ba9f-4131-a884-ed8ce3d73b67"
 
 [[FileIO]]
 deps = ["Pkg"]
