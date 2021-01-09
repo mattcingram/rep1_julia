@@ -1,4 +1,4 @@
 [deps]
 
 [compat]
-julia = "1.5.3"
+julia = "1.0.0"
