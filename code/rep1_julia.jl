@@ -7,7 +7,7 @@ Pkg.add("FreqTables")
 Pkg.add("GLM")
 Pkg.add("HTTP")
 Pkg.add("HypothesisTests")
-Pkg.add("JLD")
+Pkg.add("JLD2") # for saving any Julia object; successor to JLD; use to save working data or other object
 Pkg.add("MLJBase")
 Pkg.add("Missings")
 Pkg.add("Plots")
