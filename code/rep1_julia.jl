@@ -683,8 +683,8 @@ plot(g1, g2)
 
 savefig("./figures/fig4.png") 
 
-#using JLD
-#@save "./data/working/working.jld"
+#using JLD2
+@save "./data/working/working.jld" df1
 
 # use julia's plotting logic to plot two graphs side by side
 
